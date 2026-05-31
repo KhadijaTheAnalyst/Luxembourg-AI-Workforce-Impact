@@ -1,0 +1,4 @@
+Scenario,Description,Net_Jobs_Change,Min_Range,Max_Range,Wage_Growth_Percent,Probability
+Best Case,Reskilling programs succeed,15000,12000,18000,2.5,0.25
+Baseline,"Current path, no intervention",-4000,-2000,-6000,0.3,0.5
+Worst Case,No reskilling support,-20000,-18000,-22000,-1.0,0.25
