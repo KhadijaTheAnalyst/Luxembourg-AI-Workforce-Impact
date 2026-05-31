@@ -1,0 +1,11 @@
+Sector,Avg_Annual_Salary_EUR,Median_Salary_EUR,Min_Salary_EUR,Max_Salary_EUR,Salary_Growth_5yr_Pct
+Healthcare,58000,54000,32000,95000,8.2
+Finance,92000,85000,45000,180000,4.1
+IT & Technology,78000,72000,42000,145000,12.5
+Public Administration,62000,59000,38000,98000,3.2
+Construction,42000,39000,28000,68000,2.1
+Retail & Trade,36000,33000,26000,55000,1.2
+Manufacturing,48000,45000,30000,75000,2.8
+Logistics & Transport,38000,35000,27000,58000,1.9
+Education,60000,57000,36000,88000,3.5
+Other Services,44000,41000,28000,70000,2.5
