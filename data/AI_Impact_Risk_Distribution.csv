@@ -1,0 +1,4 @@
+Job_Category,Count,Risk_Level,Vulnerability_Percent
+High Automation Risk,65000,High,12.6
+Medium Automation Risk,155000,Medium,30.0
+AI Resilient Jobs,298000,Low,57.6
